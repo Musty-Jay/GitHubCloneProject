@@ -1,1 +1,1 @@
-This is the description of my repo
+## Git Branching Task\n\nObjective: Practice creating branches, merging, and resolving conflicts.
